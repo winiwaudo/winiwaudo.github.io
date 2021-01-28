@@ -13,10 +13,10 @@
                 <div class="col-lg-12">
 <p class="text-muted">
         Commitment to customers- We value relationships that make a difference to our clients business
-Leadership- Grit to do more with less
-Passion- Turning vision into reality
-Quality- Effective. Efficient
-Integrity- Knowing and doing right
+        Leadership- Grit to do more with less
+        Passion- Turning vision into reality
+        Quality- Effective. Efficient
+        Integrity- Knowing and doing right
                         
                         </p>
                 </div>
