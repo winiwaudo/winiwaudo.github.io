@@ -46,9 +46,11 @@ people:
 social:
   - title: twitter
     url: https://twitter.com/wimasi
+  - title: linkedin
+    url: https://linkedin.com/wimasi
   - title: facebook
     url: https://facebook.com/wimasi
-  - title: email
+  - title: envelope
     url: info@wimasi.com.au
   
 
