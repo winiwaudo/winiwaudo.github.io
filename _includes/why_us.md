@@ -21,6 +21,10 @@ Has the scope changed?Do you have new priorities? Will
 these impact costs and timelines AND are the stakeholders aware of the risks?
 Do you need a writer for (grants funding, EOI, RFT, business cases, proposals)?
 Do you need to craft your UVP and market entry strategy?</p>
+afdsaf 
+adfdfasdf   
+asdf asd  
+
                 </div>
             </div>
         </div>
